@@ -113,8 +113,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/The-Robin-Hood/portal-xtend/blob/master/LICENSE
 [license-shield]: https://img.shields.io/github/license/The-Robin-Hood/dropit.svg
 [youtube-shield]: https://img.shields.io/badge/-YouTube-red.svg?logo=youtube&colorB=red
-[youtube-url]: https://www.youtube.com/@amsorry
+[youtube-url]: https://www.youtube.com/@Anonymous63273
 [twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?logo=twitter&colorB=blue
 [twitter-url]: https://twitter.com/am5orry
 [instagram-shield]: https://img.shields.io/badge/-Instagram-blue.svg?logo=instagram&colorB=purple
-[instagram-url]: https://instagram.com/amsorry_offl
+[instagram-url]: https://www.instagram.com/per__arasu__420?igsh=OGQ5ZDc2ODk2ZA==
